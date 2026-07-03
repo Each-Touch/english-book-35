@@ -1,0 +1,94 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Exercise",
+      "speech": "Exercise"
+    },
+    {
+      "page": 1,
+      "visible": "Everyone knows that exercise is important.",
+      "speech": "Everyone knows that exercise is important."
+    },
+    {
+      "page": 2,
+      "visible": "It makes our bodies strong.",
+      "speech": "It makes our bodies strong."
+    },
+    {
+      "page": 3,
+      "visible": "When it's daytime, we should start our day with exercise.",
+      "speech": "When it's daytime, we should start our day with exercise."
+    },
+    {
+      "page": 4,
+      "visible": "Children who often exercise are more active and get ill less often.",
+      "speech": "Children who often exercise are more active and get ill less often."
+    },
+    {
+      "page": 5,
+      "visible": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise.",
+      "speech": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise."
+    },
+    {
+      "page": 6,
+      "visible": "There are many ways to exercise.",
+      "speech": "There are many ways to exercise."
+    },
+    {
+      "page": 7,
+      "visible": "You can walk, jog, surf, ski or play ball games.",
+      "speech": "You can walk, jog, surf, ski or play ball games."
+    },
+    {
+      "page": 8,
+      "visible": "Make sure you exercise in the following ways: You have to like what you're doing.",
+      "speech": "Make sure you exercise in the following ways: You have to like what you're doing."
+    },
+    {
+      "page": 9,
+      "visible": "It's best to exercise twice a week.",
+      "speech": "It's best to exercise twice a week."
+    },
+    {
+      "page": 10,
+      "visible": "Thirty minutes each time is enough.",
+      "speech": "Thirty minutes each time is enough."
+    },
+    {
+      "page": 11,
+      "visible": "Too much exercise can hurt your body.",
+      "speech": "Too much exercise can hurt your body."
+    },
+    {
+      "page": 12,
+      "visible": "Besides, try all kinds of sports till you find one, two or even three that are right for you.",
+      "speech": "Besides, try all kinds of sports till you find one, two or even three that are right for you."
+    },
+    {
+      "page": 13,
+      "visible": "You can exercise at fitness centres.",
+      "speech": "You can exercise at fitness centres."
+    },
+    {
+      "page": 14,
+      "visible": "They have a lot of equipment there.",
+      "speech": "They have a lot of equipment there."
+    },
+    {
+      "page": 15,
+      "visible": "The equipment helps strengthen your arms and legs.",
+      "speech": "The equipment helps strengthen your arms and legs."
+    },
+    {
+      "page": 16,
+      "visible": "Some people buy equipment for their homes, but it is very expensive.",
+      "speech": "Some people buy equipment for their homes, but it is very expensive."
+    }
+  ]
+}

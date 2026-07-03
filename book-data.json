@@ -1,0 +1,809 @@
+{
+  "passageNumber": 35,
+  "title": "Exercise",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Exercise",
+      "cn": "第 35 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "Everyone knows that exercise is important.",
+      "cn": "大家都知道运动很重要。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "It makes our bodies strong.",
+      "cn": "它使我们的身体强壮。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "When it's daytime, we should start our day with exercise.",
+      "cn": "白天到来时，我们应该用运动开始一天。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "Children who often exercise are more active and get ill less often.",
+      "cn": "经常运动的孩子更活跃，也较少生病。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise.",
+      "cn": "这意味着他们在考试和功课中的成绩往往也比不运动的孩子更好。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "There are many ways to exercise.",
+      "cn": "运动的方式有很多。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "You can walk, jog, surf, ski or play ball games.",
+      "cn": "你可以散步、慢跑、冲浪、滑雪或玩球类游戏。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "Make sure you exercise in the following ways: You have to like what you're doing.",
+      "cn": "要确保按下面的方式运动：你必须喜欢自己正在做的运动。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "It's best to exercise twice a week.",
+      "cn": "最好每周运动两次。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "Thirty minutes each time is enough.",
+      "cn": "每次三十分钟就够了。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "Too much exercise can hurt your body.",
+      "cn": "运动过量会伤害身体。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "Besides, try all kinds of sports till you find one, two or even three that are right for you.",
+      "cn": "此外，尝试各种运动，直到找到一种、两种甚至三种适合你的运动。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/13.png",
+      "en": "You can exercise at fitness centres.",
+      "cn": "你可以在健身中心锻炼。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/14.png",
+      "en": "They have a lot of equipment there.",
+      "cn": "那里有很多器材。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/15.png",
+      "en": "The equipment helps strengthen your arms and legs.",
+      "cn": "这些器材能帮助增强你的胳膊和腿。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/16.png",
+      "en": "Some people buy equipment for their homes, but it is very expensive.",
+      "cn": "有些人给家里买器材，但这很贵。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "active": {
+      "phonetic": "/ˈæktɪv/",
+      "translation": "活跃的",
+      "cardId": "core-003"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "also": {
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "arm": {
+      "phonetic": "/ɑːm/",
+      "translation": "手臂",
+      "cardId": "core-014"
+    },
+    "arms": {
+      "phonetic": "/ɑrmz/",
+      "translation": "武器"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "translation": "在；于"
+    },
+    "ball": {
+      "phonetic": "/bɔl/",
+      "translation": "球"
+    },
+    "besides": {
+      "phonetic": "/ˌbiˈsaɪdz/",
+      "translation": "除了"
+    },
+    "best": {
+      "phonetic": "/bɛst/",
+      "translation": "最好的"
+    },
+    "better": {
+      "phonetic": "/ˈbɛtər/",
+      "translation": "更好的"
+    },
+    "bodies": {
+      "phonetic": "/ˈbɑdiz/",
+      "translation": "尸体"
+    },
+    "body": {
+      "phonetic": "/ˈbɑdi/",
+      "translation": "身体"
+    },
+    "but": {
+      "phonetic": "/bət/",
+      "translation": "但"
+    },
+    "buy": {
+      "phonetic": "/baɪ/",
+      "translation": "买"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "centre": {
+      "phonetic": "/ˈsentə(r)/",
+      "translation": "中心",
+      "cardId": "core-012"
+    },
+    "centres": {
+      "phonetic": "/ˈsɛntərz/",
+      "translation": "中心"
+    },
+    "children": {
+      "phonetic": "/ˈʧɪldrən/",
+      "translation": "孩子们"
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "translation": "天"
+    },
+    "daytime": {
+      "phonetic": "/ˈdeɪtaɪm/",
+      "translation": "白天",
+      "cardId": "core-002"
+    },
+    "doing": {
+      "phonetic": "/duɪŋ/",
+      "translation": "正在做"
+    },
+    "dont": {
+      "phonetic": "/doʊnt/",
+      "translation": "不要"
+    },
+    "each": {
+      "phonetic": "/iʧ/",
+      "translation": "每个"
+    },
+    "enough": {
+      "phonetic": "/ɪˈnəf/",
+      "translation": "足够的"
+    },
+    "equipment": {
+      "phonetic": "/ɪˈkwɪpmənt/",
+      "translation": "设备；器材",
+      "cardId": "core-013"
+    },
+    "even": {
+      "phonetic": "/ˈivɪn/",
+      "translation": "甚至"
+    },
+    "everyone": {
+      "phonetic": "/ˈɛvriˌwən/",
+      "translation": "每个人"
+    },
+    "exercise": {
+      "phonetic": "/ˈeksəsaɪz/",
+      "translation": "运动；锻炼",
+      "cardId": "core-001"
+    },
+    "expensive": {
+      "phonetic": "/ɪkˈspɛnsɪv/",
+      "translation": "昂贵的"
+    },
+    "find": {
+      "phonetic": "/faɪnd/",
+      "translation": "寻找"
+    },
+    "fitness": {
+      "phonetic": "/ˈfɪtnəs/",
+      "translation": "健身",
+      "cardId": "core-011"
+    },
+    "following": {
+      "phonetic": "/ˈfɑloʊɪŋ/",
+      "translation": "下列的"
+    },
+    "for": {
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给"
+    },
+    "games": {
+      "phonetic": "/geɪmz/",
+      "translation": "游戏"
+    },
+    "get": {
+      "phonetic": "/gɪt/",
+      "translation": "得到"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "translation": "有"
+    },
+    "helps": {
+      "phonetic": "/hɛlps/",
+      "translation": "帮助"
+    },
+    "homes": {
+      "phonetic": "/hoʊmz/",
+      "translation": "家园"
+    },
+    "hurt": {
+      "phonetic": "/hɜːt/",
+      "translation": "伤害",
+      "cardId": "core-010"
+    },
+    "ill": {
+      "phonetic": "/ɪl/",
+      "translation": "生病的",
+      "cardId": "core-004"
+    },
+    "important": {
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "重要的"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "its": {
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是"
+    },
+    "jog": {
+      "phonetic": "/dʒɒɡ/",
+      "translation": "慢跑",
+      "cardId": "core-007"
+    },
+    "kinds": {
+      "phonetic": "/kaɪnz/",
+      "translation": "种类"
+    },
+    "knows": {
+      "phonetic": "/noʊz/",
+      "translation": "知道"
+    },
+    "legs": {
+      "phonetic": "/lɛgz/",
+      "translation": "腿"
+    },
+    "less": {
+      "phonetic": "/lɛs/",
+      "translation": "较少的"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "translation": "喜欢"
+    },
+    "lot": {
+      "phonetic": "/lɔt/",
+      "translation": "很多"
+    },
+    "make": {
+      "phonetic": "/meɪk/",
+      "translation": "制作"
+    },
+    "makes": {
+      "phonetic": "/meɪks/",
+      "translation": "使"
+    },
+    "many": {
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多"
+    },
+    "mark": {
+      "phonetic": "/mɑːk/",
+      "translation": "分数；标记",
+      "cardId": "core-005"
+    },
+    "marks": {
+      "phonetic": "/mɑrks/",
+      "translation": "标记"
+    },
+    "means": {
+      "phonetic": "/minz/",
+      "translation": "方法"
+    },
+    "minutes": {
+      "phonetic": "/ˈmɪnəts/",
+      "translation": "分钟"
+    },
+    "more": {
+      "phonetic": "/mɔr/",
+      "translation": "更多的"
+    },
+    "much": {
+      "phonetic": "/məʧ/",
+      "translation": "很多"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "often": {
+      "phonetic": "/ˈɔfən/",
+      "translation": "经常"
+    },
+    "one": {
+      "phonetic": "/wən/",
+      "translation": "一"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "our": {
+      "phonetic": "/ɑr/",
+      "translation": "我们的"
+    },
+    "people": {
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们"
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "translation": "玩"
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "translation": "正确的"
+    },
+    "schoolwork": {
+      "phonetic": "/ˈskuːlwɜːk/",
+      "translation": "功课",
+      "cardId": "core-006"
+    },
+    "should": {
+      "phonetic": "/ʃʊd/",
+      "translation": "应该"
+    },
+    "ski": {
+      "phonetic": "/ski/",
+      "translation": "滑雪"
+    },
+    "some": {
+      "phonetic": "/səm/",
+      "translation": "一些"
+    },
+    "sports": {
+      "phonetic": "/spɔrts/",
+      "translation": "运动的"
+    },
+    "start": {
+      "phonetic": "/stɑrt/",
+      "translation": "开始"
+    },
+    "strengthen": {
+      "phonetic": "/ˈstrɛŋθən/",
+      "translation": "加强"
+    },
+    "strong": {
+      "phonetic": "/strɔŋ/",
+      "translation": "强的"
+    },
+    "sure": {
+      "phonetic": "/ʃʊr/",
+      "translation": "当然"
+    },
+    "surf": {
+      "phonetic": "/sɜːf/",
+      "translation": "冲浪；浏览",
+      "cardId": "core-008"
+    },
+    "tend": {
+      "phonetic": "/tɛnd/",
+      "translation": "趋向"
+    },
+    "tests": {
+      "phonetic": "/tɛsts/",
+      "translation": "测试"
+    },
+    "than": {
+      "phonetic": "/ðən/",
+      "translation": "比"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "their": {
+      "phonetic": "/ðɛr/",
+      "translation": "他们的"
+    },
+    "there": {
+      "phonetic": "/ðer/",
+      "translation": "那里；有"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们"
+    },
+    "thirty": {
+      "phonetic": "/ˈθərˌdi/",
+      "translation": "三十"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "translation": "这"
+    },
+    "those": {
+      "phonetic": "/ðoʊz/",
+      "translation": "那些"
+    },
+    "three": {
+      "phonetic": "/θri/",
+      "translation": "三"
+    },
+    "till": {
+      "phonetic": "/tɪl/",
+      "translation": "直到"
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "translation": "时间"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "too": {
+      "phonetic": "/tu/",
+      "translation": "也"
+    },
+    "try": {
+      "phonetic": "/traɪ/",
+      "translation": "尝试"
+    },
+    "twice": {
+      "phonetic": "/twaɪs/",
+      "translation": "两次",
+      "cardId": "core-009"
+    },
+    "two": {
+      "phonetic": "/tu/",
+      "translation": "二"
+    },
+    "very": {
+      "phonetic": "/ˈvɛri/",
+      "translation": "非常"
+    },
+    "walk": {
+      "phonetic": "/wɔk/",
+      "translation": "走"
+    },
+    "ways": {
+      "phonetic": "/weɪz/",
+      "translation": "方式"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "week": {
+      "phonetic": "/wik/",
+      "translation": "星期"
+    },
+    "what": {
+      "phonetic": "/wət/",
+      "translation": "什么"
+    },
+    "when": {
+      "phonetic": "/wɪn/",
+      "translation": "什么时候"
+    },
+    "who": {
+      "phonetic": "/hu/",
+      "translation": "WHO"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "translation": "和；带有"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "translation": "你；你们"
+    },
+    "your": {
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的"
+    },
+    "youre": {
+      "phonetic": "/youre/",
+      "translation": "你是"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "exercise",
+      "speak": "exercise",
+      "phonetic": "/ˈeksəsaɪz/",
+      "meaning": "运动；锻炼",
+      "memory": "exercise → 运动；锻炼",
+      "match": "exercise",
+      "example": "Everyone knows that exercise is important. 大家都知道运动很重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "daytime",
+      "speak": "daytime",
+      "phonetic": "/ˈdeɪtaɪm/",
+      "meaning": "白天",
+      "memory": "daytime → 白天",
+      "match": "daytime",
+      "example": "When it's daytime, we should start our day with exercise. 白天到来时，我们应该用运动开始一天。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "active",
+      "speak": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "活跃的",
+      "memory": "active → 活跃的",
+      "match": "active",
+      "example": "Children who often exercise are more active and get ill less often. 经常运动的孩子更活跃，也较少生病。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "ill",
+      "speak": "ill",
+      "phonetic": "/ɪl/",
+      "meaning": "生病的",
+      "memory": "ill → 生病的",
+      "match": "ill",
+      "example": "Children who often exercise are more active and get ill less often. 经常运动的孩子更活跃，也较少生病。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "mark",
+      "speak": "mark",
+      "phonetic": "/mɑːk/",
+      "meaning": "分数；标记",
+      "memory": "mark → 分数；标记",
+      "match": "mark",
+      "example": "Everyone knows that exercise is important. 大家都知道运动很重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "schoolwork",
+      "speak": "schoolwork",
+      "phonetic": "/ˈskuːlwɜːk/",
+      "meaning": "功课",
+      "memory": "schoolwork → 功课",
+      "match": "schoolwork",
+      "example": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise. 这意味着他们在考试和功课中的成绩往往也比不运动的孩子更好。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "jog",
+      "speak": "jog",
+      "phonetic": "/dʒɒɡ/",
+      "meaning": "慢跑",
+      "memory": "jog → 慢跑",
+      "match": "jog",
+      "example": "You can walk, jog, surf, ski or play ball games. 你可以散步、慢跑、冲浪、滑雪或玩球类游戏。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "surf",
+      "speak": "surf",
+      "phonetic": "/sɜːf/",
+      "meaning": "冲浪；浏览",
+      "memory": "surf → 冲浪；浏览",
+      "match": "surf",
+      "example": "You can walk, jog, surf, ski or play ball games. 你可以散步、慢跑、冲浪、滑雪或玩球类游戏。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "twice",
+      "speak": "twice",
+      "phonetic": "/twaɪs/",
+      "meaning": "两次",
+      "memory": "twice → 两次",
+      "match": "twice",
+      "example": "It's best to exercise twice a week. 最好每周运动两次。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "hurt",
+      "speak": "hurt",
+      "phonetic": "/hɜːt/",
+      "meaning": "伤害",
+      "memory": "hurt → 伤害",
+      "match": "hurt",
+      "example": "Too much exercise can hurt your body. 运动过量会伤害身体。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "fitness",
+      "speak": "fitness",
+      "phonetic": "/ˈfɪtnəs/",
+      "meaning": "健身",
+      "memory": "fitness → 健身",
+      "match": "fitness",
+      "example": "You can exercise at fitness centres. 你可以在健身中心锻炼。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "centre",
+      "speak": "centre",
+      "phonetic": "/ˈsentə(r)/",
+      "meaning": "中心",
+      "memory": "centre → 中心",
+      "match": "centre",
+      "example": "Everyone knows that exercise is important. 大家都知道运动很重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "equipment",
+      "speak": "equipment",
+      "phonetic": "/ɪˈkwɪpmənt/",
+      "meaning": "设备；器材",
+      "memory": "equipment → 设备；器材",
+      "match": "equipment",
+      "example": "They have a lot of equipment there. 那里有很多器材。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "arm",
+      "speak": "arm",
+      "phonetic": "/ɑːm/",
+      "meaning": "手臂",
+      "memory": "arm → 手臂",
+      "match": "arm",
+      "example": "Everyone knows that exercise is important. 大家都知道运动很重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "exercise",
+      "phonetic": "/ˈeksəsaɪz/",
+      "meaning": "运动；锻炼"
+    },
+    {
+      "word": "daytime",
+      "phonetic": "/ˈdeɪtaɪm/",
+      "meaning": "白天"
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "活跃的"
+    },
+    {
+      "word": "ill",
+      "phonetic": "/ɪl/",
+      "meaning": "生病的"
+    },
+    {
+      "word": "mark",
+      "phonetic": "/mɑːk/",
+      "meaning": "分数；标记"
+    },
+    {
+      "word": "schoolwork",
+      "phonetic": "/ˈskuːlwɜːk/",
+      "meaning": "功课"
+    },
+    {
+      "word": "jog",
+      "phonetic": "/dʒɒɡ/",
+      "meaning": "慢跑"
+    },
+    {
+      "word": "surf",
+      "phonetic": "/sɜːf/",
+      "meaning": "冲浪；浏览"
+    },
+    {
+      "word": "twice",
+      "phonetic": "/twaɪs/",
+      "meaning": "两次"
+    },
+    {
+      "word": "hurt",
+      "phonetic": "/hɜːt/",
+      "meaning": "伤害"
+    },
+    {
+      "word": "fitness",
+      "phonetic": "/ˈfɪtnəs/",
+      "meaning": "健身"
+    },
+    {
+      "word": "centre",
+      "phonetic": "/ˈsentə(r)/",
+      "meaning": "中心"
+    },
+    {
+      "word": "equipment",
+      "phonetic": "/ɪˈkwɪpmənt/",
+      "meaning": "设备；器材"
+    },
+    {
+      "word": "arm",
+      "phonetic": "/ɑːm/",
+      "meaning": "手臂"
+    }
+  ]
+}
