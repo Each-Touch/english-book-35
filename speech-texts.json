@@ -1,94 +1,206 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Exercise",
-      "speech": "Exercise"
+      "speech": "Exercise",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 2.45,
+      "raw_duration_seconds": 1.28,
+      "asr": "Exercise.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "Everyone knows that exercise is important.",
-      "speech": "Everyone knows that exercise is important."
+      "speech": "Everyone knows that exercise is important.",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 6.118,
+      "raw_duration_seconds": 2.72,
+      "asr": "Everyone knows that exercise is important.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "It makes our bodies strong.",
-      "speech": "It makes our bodies strong."
+      "speech": "It makes our bodies strong.",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 4.516,
+      "raw_duration_seconds": 2.08,
+      "asr": "It makes our bodies strong.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "When it's daytime, we should start our day with exercise.",
-      "speech": "When it's daytime, we should start our day with exercise."
+      "speech": "When it's daytime, we should start our day with exercise.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 6.595,
+      "raw_duration_seconds": 4.16,
+      "asr": "When it is daytime, we should start our day with exercise.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "Children who often exercise are more active and get ill less often.",
-      "speech": "Children who often exercise are more active and get ill less often."
+      "speech": "Children who often exercise are more active and get ill less often.",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 7.488,
+      "raw_duration_seconds": 4.48,
+      "asr": "children who often exercise are more active and get ill less often.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise.",
-      "speech": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise."
+      "speech": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 9.369,
+      "raw_duration_seconds": 5.6,
+      "asr": "This means they also tend to get better marks in tests and schoolwork than those who don't exercise.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "There are many ways to exercise.",
-      "speech": "There are many ways to exercise."
+      "speech": "There are many ways to exercise.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 4.749,
+      "raw_duration_seconds": 2.4,
+      "asr": "There are many ways to exercise.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "You can walk, jog, surf, ski or play ball games.",
-      "speech": "You can walk, jog, surf, ski or play ball games."
+      "speech": "You can walk, jog, surf, ski or play ball games.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 6.072,
+      "raw_duration_seconds": 3.84,
+      "asr": "You can walk, jog, surf, ski, or play ball games.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "Make sure you exercise in the following ways: You have to like what you're doing.",
-      "speech": "Make sure you exercise in the following ways: You have to like what you're doing."
+      "speech": "Make sure you exercise in the following ways: You have to like what you're doing.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 8.15,
+      "raw_duration_seconds": 5.28,
+      "asr": "Make sure you exercise in the following ways. You have to like what you're doing.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "It's best to exercise twice a week.",
-      "speech": "It's best to exercise twice a week."
+      "speech": "It's best to exercise twice a week.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 5.178,
+      "raw_duration_seconds": 2.72,
+      "asr": "It is best to exercise twice a week.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
       "visible": "Thirty minutes each time is enough.",
-      "speech": "Thirty minutes each time is enough."
+      "speech": "Thirty minutes each time is enough.",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 4.377,
+      "raw_duration_seconds": 2.56,
+      "asr": "30 minutes each time is enough.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "Too much exercise can hurt your body.",
-      "speech": "Too much exercise can hurt your body."
+      "speech": "Too much exercise can hurt your body.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 5.085,
+      "raw_duration_seconds": 2.72,
+      "asr": "Too much exercise can hurt your body.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
       "visible": "Besides, try all kinds of sports till you find one, two or even three that are right for you.",
-      "speech": "Besides, try all kinds of sports till you find one, two or even three that are right for you."
+      "speech": "Besides, try all kinds of sports till you find one, two or even three that are right for you.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 9.23,
+      "raw_duration_seconds": 5.92,
+      "asr": "Besides, try all kinds of sports till you find one, two, or even three that are right for you.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 13,
       "visible": "You can exercise at fitness centres.",
-      "speech": "You can exercise at fitness centres."
+      "speech": "You can exercise at fitness centres.",
+      "file": "sentences/page-13.mp3",
+      "duration_seconds": 5.41,
+      "raw_duration_seconds": 2.72,
+      "asr": "You can exercise at fitness centers.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 14,
       "visible": "They have a lot of equipment there.",
-      "speech": "They have a lot of equipment there."
+      "speech": "They have a lot of equipment there.",
+      "file": "sentences/page-14.mp3",
+      "duration_seconds": 4.052,
+      "raw_duration_seconds": 2.24,
+      "asr": "they have a lot of equipment there.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 15,
       "visible": "The equipment helps strengthen your arms and legs.",
-      "speech": "The equipment helps strengthen your arms and legs."
+      "speech": "The equipment helps strengthen your arms and legs.",
+      "file": "sentences/page-15.mp3",
+      "duration_seconds": 5.979,
+      "raw_duration_seconds": 3.04,
+      "asr": "The equipment helps strengthen your arms and legs.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 16,
       "visible": "Some people buy equipment for their homes, but it is very expensive.",
-      "speech": "Some people buy equipment for their homes, but it is very expensive."
+      "speech": "Some people buy equipment for their homes, but it is very expensive.",
+      "file": "sentences/page-16.mp3",
+      "duration_seconds": 6.827,
+      "raw_duration_seconds": 4.16,
+      "asr": "Some people buy equipment for their homes, but it is very expensive.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 17,
+    "asr_exact_count": 17,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
